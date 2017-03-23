@@ -1,0 +1,4 @@
+Ideą fabryki abstrakcyjnej jest tworzenie rodzin spokrewnionych ze sobą obiektów.
+Ten wzorzec tak jak poprzednie pozwalają na tworzenie kodu, który będzie uzależniony od abstrakcji, a nie od implementacji konkretnych klas.
+
+Źródło: http://krzysztofjelonek.net/wzorce-projektowe-fabryki/

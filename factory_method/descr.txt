@@ -1,0 +1,4 @@
+Metoda fabrykująca definiuje interfejs pozwalający na tworzenie obiektów, równocześnie pozwalając klasom podrzędnym decydować jakiej klasy obiekt zostanie stworzony.
+Odpowiedzialność za tworzenie obiektów zostaje przekazana klasom podrzędnym.
+
+Źródło: http://krzysztofjelonek.net/wzorce-projektowe-fabryki/

@@ -1,0 +1,1 @@
+Enkapsuluje zachowania w obiekcie, pozwala na ich "wymianę" w kliencie w trakcie trwania programu
