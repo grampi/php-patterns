@@ -1,4 +1,7 @@
-Ideą fabryki abstrakcyjnej jest tworzenie rodzin spokrewnionych ze sobą obiektów.
-Ten wzorzec tak jak poprzednie pozwalają na tworzenie kodu, który będzie uzależniony od abstrakcji, a nie od implementacji konkretnych klas.
+* Fabryka fakbryk, fakbryka która grupuje niezależne ale powiązane fabryczki bez specyfikowania ich klas konkretnych
+* Ideą fabryki abstrakcyjnej jest tworzenie rodzin spokrewnionych ze sobą obiektów.
+* Ten wzorzec tak jak poprzednie pozwalają na tworzenie kodu, który będzie uzależniony od abstrakcji, a nie od implementacji konkretnych klas.
+* Może tworzyć złożony produkt końcowy z kilku mniejszych produktów składowych.
 
+Źródło: https://github.com/kamranahmedse/design-patterns-for-humans
 Źródło: http://krzysztofjelonek.net/wzorce-projektowe-fabryki/

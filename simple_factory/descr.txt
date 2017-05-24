@@ -1,4 +1,5 @@
-Prosta fabryka wywoływana jest bezpośrednio przez klasę która chce utworzyć nowy obiekt.
-Wywołana metoda fabryki zwraca jeden z wielu obiektów dziedziczących po wspólnej klasie bazowej lub implementujących wspólny interfejs.
+* Prosta fabryka wywoływana jest bezpośrednio przez klasę która chce utworzyć nowy obiekt.
+* Wywołana metoda fabryki zwraca jeden z wielu obiektów dziedziczących po wspólnej klasie bazowej lub implementujących wspólny interfejs.
+* Ukrywa tworzenie obiektu przed klientem.
 
 Źródło: http://krzysztofjelonek.net/wzorce-projektowe-fabryki/
