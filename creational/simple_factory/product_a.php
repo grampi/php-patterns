@@ -2,7 +2,7 @@
 
 require_once './product.php';
 
-class productA implements productA {
+class productA implements product {
 
     public function showDescription() {
         echo "jestem produkt A";

@@ -1,0 +1,2 @@
+- Tworzy nowy obiekt na podstawie już istniejącego (klonowanie)
+- Utwórz kopię istniejącego obiektu i zmień go wg. potrzeb zamiast tworzyć nowy obiekt

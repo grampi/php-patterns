@@ -1,6 +1,6 @@
 <?php
 
-interface productA {
+interface product {
 
     public function showDescription();
 }
