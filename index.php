@@ -10,6 +10,7 @@
         <li><a href="creational/factory_method/client.php">Factory Method (Metoda wytwórcza)</a></li>
         <li><a href="creational/simple_factory/client.php">Simple Factory (Prosta fabryka)</a></li>
         <li><a href="creational/prototype/client.php">Prototype (Prototyp)</a></li>
+        <li><a href="creational/singleton/client.php">Singleton</a></li>
     </ol>
     <p4>Behavioral (Czynnościowe/operacyjne):</p4>
     <ol>

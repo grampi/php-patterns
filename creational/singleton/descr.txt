@@ -1,0 +1,1 @@
+Zapewnia jedną instancję obiektu
