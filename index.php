@@ -15,6 +15,7 @@
     <p4>Behavioral (Czynnościowe/operacyjne):</p4>
     <ol>
         <li><a href="behavioral/strategy/client.php">Strategy (Strategia)</a></li>
+        <li><a href="behavioral/observer/client.php">Observer (Obserwator)</a></li>
     </ol>
     <p4>Structural (Strukturalne):</p4>
     <ol>
