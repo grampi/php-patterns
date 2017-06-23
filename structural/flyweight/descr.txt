@@ -1,0 +1,2 @@
+Pyłek to "obiekt" który minimalizuje zużycie zasobów (pamięć), poprzez współdzielenie swoich zasobów z innymi obiektami.
+TODO: dać lepszą definicję, bardziej pasującą do przykładu
