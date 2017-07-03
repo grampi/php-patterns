@@ -11,3 +11,5 @@ $controlTower->registerPlane($plane1);
 $controlTower->registerPlane($plane2);
 
 $plane1->send('SP-300AB', 'hejka');
+
+//$controlTower->listRegistredPlanes();

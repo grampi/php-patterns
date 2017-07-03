@@ -20,12 +20,12 @@ class Plane {
     }
 
     public function send($id, $message) {
-        echo "Przesyłanie wiadomości od " . $this->id . " do " . $id . ": " . $message;
-        $this->mediator->wyślij($id, $message);
+        echo "Tu samolot " . $this->id . ", mam wiadomość do " . $id . ": " . $message . "<br>";
+        $this->mediator->send($id, $message);
     }
 
     public function receive($message) {
-        echo "Wiadomość otrzymana od " . $this->id . ": " . $message . "<br>";
+        echo "Tu samolot " . $this->id . ", otrzymałem wiadomość: " . $message . "<br>";
     }
 
 }

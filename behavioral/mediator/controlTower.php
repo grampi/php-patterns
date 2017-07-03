@@ -15,4 +15,10 @@ class ControlTower implements Mediator {
         $this->planes[$plane->getId()] = $plane;
     }
 
+    public function listRegistredPlanes() {
+        echo "<pre>";
+        var_dump($this->planes);
+        echo "</pre>";
+    }
+
 }
