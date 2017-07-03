@@ -16,6 +16,7 @@
     <ol>
         <li><a href="behavioral/strategy/client.php">Strategy (Strategia)</a></li>
         <li><a href="behavioral/observer/client.php">Observer (Obserwator)</a></li>
+	<li><a href="behavioral/mediator/client.php">Mediator (Mediator)</a></li>
     </ol>
     <p4>Structural (Strukturalne):</p4>
     <ol>

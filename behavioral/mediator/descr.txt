@@ -1,0 +1,2 @@
+- Definiuje obiekt (mediator) dzieki któremu kolekcja obiektów może się ze sobą komunikować (bez bezpośredniej wiedzy o sobie)
+- enkapsuluje komunikację między obiektami
