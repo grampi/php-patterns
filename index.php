@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>PHP Patterns</title>
     </head>
     <body>
     <p4>Creational (Kreacyjne):</p4>
@@ -16,7 +16,7 @@
     <ol>
         <li><a href="behavioral/strategy/client.php">Strategy (Strategia)</a></li>
         <li><a href="behavioral/observer/client.php">Observer (Obserwator)</a></li>
-	<li><a href="behavioral/mediator/client.php">Mediator (Mediator)</a></li>
+        <li><a href="behavioral/mediator/client.php">Mediator (Mediator)</a></li>
     </ol>
     <p4>Structural (Strukturalne):</p4>
     <ol>

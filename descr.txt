@@ -2,18 +2,42 @@ Kreacyjne (konstrukcyjne, creational design patterns)
 
     opisują elastyczne sposoby tworzenia obiektów
     uniezależniają system od sposobu tworzenia obekt
-    Metoda Wytwórcza (Factory Method), Budowniczy (Builder), Fabryka Abstrakcyjna (Abstract Factory), Prototyp (Prototype), Singleton
+
+    [v] Simple factory
+    [v] Metoda Wytwórcza (Factory Method)
+    [ ] Budowniczy (Builder)
+    [v] Fabryka Abstrakcyjna (Abstract Factory)
+    [v] Prototyp (Prototype)
+    [v] Singleton
 
 Strukturalne (structural design patterns)
 
     opisują sposob konstrukcji struktur obiektowych
     korzystają z dziedziczenia i delegacji
-    Adapter (klasy), Adapter (obiekty), Dekorator (Decorator), Fasada (Facade), Kompozyt (Composite), Most (Bridge), Pełnomocnik (Proxy), Pyłek (Flyweight)
+
+    [ ] Adapter (klasy) / Adapter (obiekty)
+    [ ] Dekorator (Decorator)
+    [ ] Fasada (Facade)
+    [ ] Kompozyt (Composite)
+    [ ] Most (Bridge)
+    [ ] Pełnomocnik (Proxy)
+    [v] Pyłek (Flyweight)
 
 Behawioralne (czynnościowe, behavioral design patterns)
 
     opisują algorytmy i przydział odpowiedzialności
     charakteryzują sposob interakcji między obiektami
-    Interpreter, Metoda Szablonowa (Template Method), Iterator, Łańcuch Zobowiązań (Chain of Responsibility), Mediator, Obserwator (Observer), Odwiedziający (Visitor), Pamiątka (Memento), Polecenie (Command), Stan (State), Strategia (Strategy)
 
-Źródło: http://zasoby.open.agh.edu.pl/~09sbfraczek/wzorce-projektowe-wstep%2C1%2C57.html
+    [ ] Interpreter
+    [ ] Metoda Szablonowa (Template Method)
+    [ ] Iterator
+    [ ] Łańcuch Zobowiązań (Chain of Responsibility)
+    [v] Mediator
+    [v] Obserwator (Observer)
+    [ ] Odwiedziający (Visitor)
+    [ ] Pamiątka (Memento)
+    [ ] Polecenie (Command)
+    [ ] Stan (State)
+    [v] Strategia (Strategy)
+
+Źródło: http://zasoby.open.agh.edu.pl/~09sbfraczek/wzorce-projektowe-wstep%2C1%2C57.html + własne
