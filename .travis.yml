@@ -8,7 +8,8 @@ php:
 #  - nightly
 
 before_install:
-  - cd test/structural/flyweight
+#  - cd test/structural/flyweight
+    - ls -la
 
 script:
-  - phpunit --debug --coverage-text tea_makerTest
+  - phpunit --debug --coverage-text
