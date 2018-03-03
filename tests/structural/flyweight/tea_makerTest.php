@@ -28,7 +28,6 @@ class TeaMakerTest extends PHPUnit_Framework_TestCase {
 
     /**
      * @covers TeaMaker::make
-     * @todo   Implement testMake().
      */
     public function testMake() {
         // Remove the following lines when you implement this test.
