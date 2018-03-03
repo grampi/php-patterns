@@ -7,9 +7,10 @@ php:
 #  - hhvm # on Trusty only
 #  - nightly
 
-before_install:
+#before_install:
 #  - cd test/structural/flyweight
-    - ls -la
+#    - ls -la
 
 script:
-  - phpunit --debug --coverage-text
+#  - phpunit --debug --coverage-text
+    - phpunit tests
