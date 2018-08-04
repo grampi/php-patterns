@@ -1,0 +1,4 @@
+[ ] make unit test executable
+[ ] fix all unit tests
+[ ] test patters by unit tests
+[ ] 
